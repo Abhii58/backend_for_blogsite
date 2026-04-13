@@ -10,13 +10,14 @@
   "author": "Abhishek Bijalwan",
   "license": "MIT",
   "dependencies": {
+    "bcryptjs": "^3.0.3",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.21.1",
     "mongoose": "^5.13.22"
   },
   "devDependencies": {
-    "nodemon": "^2.0.22",
-    "jsonwebtoken": "^9.x.x"
+    "jsonwebtoken": "^9.0.3",
+    "nodemon": "^2.0.22"
   }
 }
